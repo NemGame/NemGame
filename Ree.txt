@@ -16,4 +16,3 @@ Ree: https://www.curseforge.com/minecraft/mc-mods/ree
           -Clay Block, Clay Slab, Clay Stairs, Chiselled Clay Block, Chiselled Slab, Chiselled Stairs, and more!
         -Clay Chest:
           -Normal, Iron, Gold, Diamond
-          
