@@ -5,9 +5,9 @@ Change-Log:
 v.1.9:
 	Adding Command:
 		/fly --> Allow the player to fly
-	Adding DeCrafting TABLE
-	Adding Pickaxe TABLE
-	Adding Table
+	Adding DeCrafting TABLE (Custom model)
+	Adding Pickaxe TABLE (Custom model)
+	Adding Table (Custom model)
 v.1.8:
 	Adding DeCrafting Table
 	Adding Pickaxe Table
