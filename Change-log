@@ -1,0 +1,52 @@
+-------------------------------------------------------
+Ree: https://www.curseforge.com/minecraft/mc-mods/ree
+-------------------------------------------------------
+Change-Log:
+v.1.9:
+	Adding Command:
+		/fly --> Allow the player to fly
+	Adding DeCrafting TABLE
+	Adding Pickaxe TABLE
+	Adding Table
+v.1.8:
+	Adding DeCrafting Table
+	Adding Pickaxe Table
+v.1.7:
+	Adding Clay Pickaxe Upgrades
+	Adding Iron, Gold, Diamond Stick
+	Adding 4 advancements
+v.1.6:
+	Adding parameter for /t and /time: sunrise , sr
+	Adding Commands:
+		/surface --> Teleport to the Surface
+		/nether --> Teleport to the Nether
+		/end --> Teleport to the End
+		/day  --> Set time to day
+		/d --> Set time to day
+		/night --> Set time to night
+		/n --> Set time to night
+		/noon --> Set time to noon
+		/no --> Set time to noon
+		/morning --> Set time to morning
+		/morn --> Set time to morning
+		/m --> Set time to morning
+		/sunset --> Set time to sunset
+		/ss --> Set time to sunset
+		/sunrise --> Set time to sunrise
+		/sr --> Set time to sunrise
+	Adding a new item: Clay Material
+	Adding a new armor: Clay Armor
+	Adding new tools: Clay Tools
+v.1.5:
+	Adding commands:
+		/health , /heal and /h (type after what health level you need!)
+		/feed , /food and /f(type after what food level you need!)
+	Adding "Creeper Boom" music disc
+v.1.4:
+	Adding commands:
+		/t and /time
+		/inv and /invisible
+	Deleting Clay Biom and Mineander
+	Fix Jet Boots Bug
+	Adding a random song ("if found x Luma - twenty five" no copyright version)
+-------------------------------------------------------
