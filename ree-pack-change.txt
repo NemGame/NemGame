@@ -1,0 +1,11 @@
+------------------------------------------------------------------
+https://www.curseforge.com/minecraft/texture-packs/ree-source-pack
+------------------------------------------------------------------
+This texture pack makes changes for:
+  Ree mod:
+    -DeCrafting TABLE
+    -DeCrafting TABLE 2
+    -Pickaxe TABLE
+   Minecraft:
+    -Sun
+    -Moon
