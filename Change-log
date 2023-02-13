@@ -2,6 +2,20 @@
 Ree: https://www.curseforge.com/minecraft/mc-mods/ree
 -------------------------------------------------------
 Change-Log:
+v.2.0:
+	Adding commands:
+	   /immortal and /im ---> Makes you immortal
+	   /change-log ---> Gives a link to the change-log
+	   /structure and /str --> It can spawn any custom structure from this mod
+	Adding Mask (7 colors)
+	Adding Headset
+	Adding Poppy (yellow, blue, green, pink)
+	Adding every ore to every dimension
+	Publish "Ree pack"
+	Bug fix for:
+	   DeCrafting TABLE
+	   Pickaxe TABLE
+	Making custom advancements visible
 v.1.9:
 	Adding Command:
 		/fly --> Allow the player to fly
