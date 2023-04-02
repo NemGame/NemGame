@@ -2,6 +2,19 @@
 Ree: https://www.curseforge.com/minecraft/mc-mods/ree
 -------------------------------------------------------
 Change-Log:
+v.2.1:
+	Making Custom ores smeltable
+	Making "Falu" rare (10x more rare)
+	Fixing some Pickaxe Table bugs
+	Making Custom Lapis and Redstone ore dropp less
+	Making some Custom ores to dropp XP (Not all!)
+	Adding recipe to:
+		-Grass Block
+	Adding Fake Blocks:
+		-Fake Dirt
+		-Fake Stone
+		-Fake Netherrack
+		-Fake Endstone
 v.2.0:
 	Adding commands:
 	   /immortal and /im ---> Makes you immortal
