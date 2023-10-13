@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @NemGame
-- 🎂 I'm from Hungary
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C# language
-- 💞️ I’m currenty working on a minecraft mod, called "Ree" (Rewriteing the whole mod to 1.19.4)
-- 📫 You can see my works on curseforge, and here!
-- 💻 Curseforge: https://www.curseforge.com/members/nemgame/projects
+
