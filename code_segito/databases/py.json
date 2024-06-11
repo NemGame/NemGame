@@ -1,0 +1,8 @@
+{
+    "create_string": {
+        "name": "Szöveg változó készítése",
+        "desc": "szoveg = 'szöveg'",
+        "tartalom": "szoveg = 'szöveg'",
+        "tags": ["string", "create", "szöveg", "készítése", "szoveg", "változó"]
+    }
+}
