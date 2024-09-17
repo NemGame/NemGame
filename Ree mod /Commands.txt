@@ -1,0 +1,5 @@
+Ree: https://www.curseforge.com/minecraft/mc-mods/ree
+---ATTENTION!!! What you see here is only information of the newest version of the mod!---
+  Commands:
+    /time <TIME>
+      "TIME" can be: day , d , 6000 , noon , no , morning , m , 0 , night , n , 18000 , sunset , ss , 12000 , sunrise , sr
