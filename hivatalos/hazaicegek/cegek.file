@@ -1,1 +1,3 @@
-`{ "name": "Virágcserép Virág-és Ajándékbolt", "szekhely": "2060 Bicske, Csabdi út 4.", "tags": ["virágbolt", "ajándéküzlet", "sírcsokrok", "koszorúk", "vágott virágok", "cserepes virágok"], "ikon":"https://hazaicegek.org/wp-content/uploads/2021/11/wpe8fcddf5_05_06.jpg", "elerhetosegek": "" }`
+`{ "name": "Virágcserép Virág-és Ajándékbolt", "szekhely": "2060 Bicske, Csabdi út 4.", "tags": ["virágbolt", "ajándéküzlet", "sírcsokrok", "koszorúk", "vágott virágok", "cserepes virágok"], "ikon":"https://hazaicegek.org/wp-content/uploads/2021/11/wpe8fcddf5_05_06.jpg", "elerhetosegek": ["www.youtube.com", "viragok@gmail.com"] }`
+`{ "name": "Alma", "szekhely": "Fa", "tags": ["finom", "piros", "zöld"], "ikon":"", "elerhetosegek": ["www.almafa.hu", "alma@gmail.com"] }`
+`{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [] }`
