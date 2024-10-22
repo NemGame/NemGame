@@ -5,3 +5,4 @@
 `{ "name": "Alma", "szekhely": "Fa", "tags": ["finom", "piros", "zöld"], "ikon":"https://vegabox.hu/wp-content/uploads/2020/01/apples-poland-red-jonaprince-1-e1643214217535.jpg", "elerhetosegek": ["www.almafa.hu", "alma@gmail.com"] }`
 `{ "name": "Alma", "szekhely": "Fa", "tags": ["finom", "piros", "zöld"], "ikon":"https://vegabox.hu/wp-content/uploads/2020/01/apples-poland-red-jonaprince-1-e1643214217535.jpg", "elerhetosegek": ["www.almafa.hu", "alma@gmail.com"] }`
 `{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [] }`
+`{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [], "disabled": "true" }`
