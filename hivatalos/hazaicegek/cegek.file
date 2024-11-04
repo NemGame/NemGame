@@ -6,5 +6,4 @@
 `{ "name": "Alma", "szekhely": "Fa", "tags": ["finom", "piros", "zöld"], "ikon":"https://vegabox.hu/wp-content/uploads/2020/01/apples-poland-red-jonaprince-1-e1643214217535.jpg", "elerhetosegek": ["www.almafa.hu", "alma@gmail.com"], "kategoria": "növény" }`
 `{ "name": "Szuper jó kajálda", "szekhely": "Velence", "tags": ["étterem", "finom", "étel", "evés"], "ikon":"https://i.szalas.hu/pois/4074/original/25555.jpg", "elerhetosegek": ["etterem@et.hu", "etterem.jo.hu"], "kategoria": "étterem" }`
 `{ "name": "Ló simogató", "szekhely": "Pacimét", "tags": ["lovacska", "állat barát", "természet"], "ikon":"https://aquanaut.hu/wp-content/uploads/2022/02/Igy-tortenik-a-lo-apolasa-20220202.jpg", "elerhetosegek": ["lovacska@paci.hu"], "kategoria": "Lovaglás és Lovarda" }`
-`{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [], "kategoria": "" }`
-`{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [], "kategoria": "", "disabled": "true" }`
+`{ "name": "", "szekhely": "", "tags": [], "ikon":"", "elerhetosegek": [], "kategoria": "", "disabled": "true"}`
