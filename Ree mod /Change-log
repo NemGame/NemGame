@@ -8,6 +8,7 @@ v.3.1:  - The Language Update -   [Work In Progress]
 	Plans:
 		- Add proper English and Hungarian names for each modded block / item (element)
 		- If found, fix some bugs
+		- Make "/ree" easier to use
 
 v.3.0:  - The Sense Update - 
 	Changed custom ores to drop reasonable amounts of resources
