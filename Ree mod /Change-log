@@ -16,7 +16,7 @@ v.3.0:  - The Sense Update -
 	Fixed End and Nether Gold and Iron to drop ingots, instead of themselves
 	Changed default recipe of hardened paper and hardened string to be more JEI compatible
 	Changed Jet Boots to have a more expensive recipe
-	Removed "Ree mod" from the top right corner"
+	Removed "Ree mod" from the top right corner
 	Changed reverse slab crafting(s) to be more JEI compatible
 	Added a second way of making grass blocks
 	Readded clay mob as "Clay Person"
