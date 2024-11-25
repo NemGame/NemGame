@@ -3,8 +3,24 @@ Ree: https://www.curseforge.com/minecraft/mc-mods/ree
 -------------------------------------------------------
 -> Rewriting canceled (reason: I'm too lazy for that) <-
 Change-Log:
-v.3.0:
-	! Coming soon !
+
+v.3.1:  - The Language Update -   [Work In Progress]
+	Plans:
+		- Add proper English and Hungarian names for each modded block / item (element)
+		- If found, fix some bugs
+
+v.3.0:  - The Sense Update - 
+	Changed custom ores to drop reasonable amounts of resources
+	Changed custom ores to spawn in smaller veins
+	Fixed End and Nether Gold and Iron to drop ingots, instead of themselves
+	Changed default recipe of hardened paper and hardened string to be more JEI compatible
+	Changed Jet Boots to have a more expensive recipe
+	Removed "Ree mod" from the top right corner"
+	Changed reverse slab crafting(s) to be more JEI compatible
+	Added a second way of making grass blocks
+	Readded clay mob as "Clay Person"
+	Fixed "/change-log" link
+	Changed how "Jet Boots" work
 v.2.1:
 	Making Custom ores smeltable
 	Making "Falu" rare (10x more rare)
