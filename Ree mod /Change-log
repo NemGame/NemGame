@@ -9,6 +9,7 @@ v.3.1
 	Plans:
 		- Reality Wand:
 			~ Turn blocks into their fake variants (dirt -> fake dirt)
+		- Cure "Clay Person" mob
 
 v.3.0.1:
 	Disabled cursed "Clay Person" spawning
