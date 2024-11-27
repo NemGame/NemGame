@@ -4,12 +4,11 @@ Ree: https://www.curseforge.com/minecraft/mc-mods/ree
 -> Rewriting canceled (reason: I'm too lazy for that) <-
 Change-Log:
 
-v.3.1:  - The Language Update -   [Work In Progress]
-	Plans:
-		- Add proper English and Hungarian names for each modded block / item (element)
-		- If found, fix some bugs
-		- Make "/ree" easier to use
+v.3.1
+	Work In Progress
 
+v.3.0.1:
+	Disabled cursed "Clay Person" spawning
 v.3.0:  - The Sense Update - 
 	Changed custom ores to drop reasonable amounts of resources
 	Changed custom ores to spawn in smaller veins
