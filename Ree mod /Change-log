@@ -6,6 +6,9 @@ Change-Log:
 
 v.3.1
 	Work In Progress
+	Plans:
+		- Reality Wand:
+			~ Turn blocks into their fake variants (dirt -> fake dirt)
 
 v.3.0.1:
 	Disabled cursed "Clay Person" spawning
