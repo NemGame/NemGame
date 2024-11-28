@@ -1,3 +1,7 @@
+v.3.1pre3:
+  Made "/killclaymobs /<p|person>" command work
+  Cured (Fixed) "Clay Person" entity
+  Added an animated texture for "Reality Wand" item
 v.3.1pre2:
   Added "Reality Wand" item
 v.3.1pre1:
