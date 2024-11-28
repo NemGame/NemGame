@@ -5,12 +5,9 @@ Ree: https://www.curseforge.com/minecraft/mc-mods/ree
 Change-Log:
 
 v.3.1
-	[Work In Progress]
-	Plans:
-		- Reality Wand:
-			~ Turn blocks into their fake variants (dirt -> fake dirt)
-		- Cure "Clay Person" mob
-
+	Added "Reality Wand" item with animated texture
+	Fixed "Clay Person" mob
+	Added "/killclaymobs" command
 v.3.0.1:
 	Disabled cursed "Clay Person" spawning
 v.3.0:  - The Sense Update - 
