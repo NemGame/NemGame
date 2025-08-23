@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @NemGame
-- 🎂 I'm from Hungary
-- 👀 I’m interested in minecraft mod creating
-- 🌱 I’m currently learning MCreator and Python language
-- 💞️ I’m currenty working on a minecraft mod, called "Ree"
-- 📫 You can see my works on curseforge, and here!
-- 💻 Curseforge: https://www.curseforge.com/members/nemgame/projects
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Get+a+life...)](https://git.io/typing-svg)
