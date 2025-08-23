@@ -19,7 +19,7 @@
 
 ## Goals
 ### Achieve learning the aforementioned stuff
-### Learn fancy english
+### Learn fancy English, thus thou mayest be pleased with such baroque sesquipedalian words
 ### Go on a 2nd date with my crush (the 1st went sooo well, I'm still so happy)
 
 
