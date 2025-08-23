@@ -10,6 +10,6 @@
 ## If you don't like yourself, you're just not your type
 ### Ye
 ## You cannot have the knowledge of not knowing something, unless you know that you don't know that thing, but if you do, you still don't have it
-### If ya know that you don't know, then you know that you don't know, thus you cannot not know that you don't know something
+### If ya know that you don't know, then you know that you don't know, thus you cannot not know that you don't know
 ## Yes, it's 3:44am
 ### I'm tired
