@@ -24,12 +24,13 @@
 
 
 ## What I like
-### Learning, but only to a certain degree, like programming, maybe ~6-7 hours a day, 5-6 days a week, on my own, max.
+### Learning, but only to a certain degree, like programming, maximum is like maybe ~6-7 hours a day, 5-6 days a week, on my own.
 ### Helping people
 ### SOMETIMES doing specific chores, like there are times when I just wake up and start tidying and/or cleaning my room or the house
 
 ## What I hate
 ### Washing dishes
+### Usually studying with other people, there are very few people whom I can actually study with
 
 # Random facts
 ### I made them all up
