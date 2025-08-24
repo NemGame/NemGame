@@ -13,8 +13,8 @@
 ### HTML, CSS, JavaScript, Python
 ### Hungarian, English
 
-## What I wanna learn
-### Cooking, baking, fast reading, driving, drawing, animating, hardware stuff, software stuff, life, history, maths, physics, not overthinking
+## What I wanna learn (actually)
+### Cooking, baking, fast reading, driving, drawing, animating, hardware stuff, software stuff, life, history, maths, physics, not overthinking, every language (human and programming), teaching, chemistry, construction
 
 
 ## Goals
