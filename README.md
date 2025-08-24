@@ -23,6 +23,14 @@
 ### Go on a 2nd date with my crush (the 1st went sooo well, I'm still so happy)
 
 
+## What I like
+### Learning, but only to a certain degree, like programming, maybe ~6-7 hours a day, 5-6 days a week, on my own, max.
+### Helping people
+### SOMETIMES doing specific chores, like there are times when I just wake up and start tidying and/or cleaning my room or the house
+
+## What I hate
+### Washing dishes
+
 # Random facts
 ### I made them all up
 ## Shadows have no speed, yet they still move
@@ -31,7 +39,8 @@
 ### There are kind people, also they might just like you (or your feet)
 ## If you don't like yourself, you're just not your type
 ### Ye
-## You cannot have the knowledge of not knowing something, unless you know that you don't know that thing, but if you do, you still don't have it
-### If ya know that you don't know, then you know that you don't know, thus you cannot not know that you don't know
+## You cannot have the knowledge of not knowing that you don't know something, unless you know that you don't know that thing, but if you do, you still don't have it
+### If ya know that you don't know, then you cannot not know not knowing it
+### Something, as in a given thing, like I know I don't know things that I don't know that I don't know, but that something is e.g. I don't know what Prowless means, if I think about not knowing it, I know that I don't know it, thus you can't know what things you don't know
 ## Yes, it's 3:44am
 ### I'm tired
