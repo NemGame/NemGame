@@ -13,7 +13,7 @@
 ### HTML, CSS, JavaScript, Python
 ### Hungarian, English
 
-## What I wanna learn (actually)
+## What I wanna learn (I actually do, I'm not joking)
 ### Cooking, baking, fast reading, driving, drawing, animating, hardware stuff, software stuff, life, history, maths, physics, not overthinking, every language (human and programming), teaching, chemistry, construction
 
 
