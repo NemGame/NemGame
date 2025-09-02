@@ -14,7 +14,7 @@
 ### Hungarian, English
 
 ## What I wanna learn (I actually do, I'm not joking)
-### Cooking, baking, fast reading, driving, drawing, animating, hardware stuff, software stuff, life, history, maths, physics, not overthinking, every language (human and programming), teaching, chemistry, construction
+### Cooking, baking, fast reading, driving, drawing, animating, hardware stuff, software stuff, life, history, maths, physics, not overthinking, every language (human and programming), teaching, chemistry, construction, medicine, locating oneself with coordinates
 
 
 ## Goals
@@ -40,7 +40,7 @@
 ### There are kind people, also they might just like you (or your feet)
 ## If you don't like yourself, you're just not your type
 ### Ye
-## You cannot have the knowledge of not knowing that you don't know something, unless you know that you don't know that thing, but if you do, you still don't have it
+## You cannot have the knowledge of not knowing that you don't know something, unless you know that you don't know that thing, but if you do, you still don't
 ### If ya know that you don't know, then you cannot not know not knowing it
 ### Something, as in a given thing, like I know I don't know things that I don't know that I don't know, but that something is e.g. I don't know what Prowless means, if I think about not knowing it, I know that I don't know it, thus you can't know what things you don't know
 ## Yes, it's 3:44am
