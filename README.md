@@ -7,7 +7,7 @@
 
 ## What I'm learning
 ### C, C++, C#, Rust, Java
-### Japanese, Polish, Sweedish, Chinese
+### Japanese, Polish, Sweedish, Chinese, Fancy English (Middle English, stuff like thou, thee, mayest, art, didst)
 
 ## What I think I know pretty well
 ### HTML, CSS, JavaScript, Python
@@ -19,7 +19,6 @@
 
 ## Goals
 ### Achieve learning the aforementioned stuff
-### Learn fancy English, thus thou mayest be pleased with such baroque sesquipedalian words
 ### Go on a 2nd date with my crush (the 1st went sooo well, I'm still so happy)
 
 
