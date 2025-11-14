@@ -7,7 +7,7 @@
 
 ## What I'm learning
 ### C, C++, C#, Rust, Java
-### Japanese, Polish, Sweedish, Chinese, Italian, Fancy English (Middle English, stuff like thou, thee, mayest, art, didst)
+### Italian, Japanese, Polish, Sweedish, Chinese, Fancy English (Middle English, stuff like thou, thee, mayest, art, didst)
 
 ## What I think I know pretty well
 ### HTML, CSS, JavaScript, Python
