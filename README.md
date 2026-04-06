@@ -19,7 +19,6 @@
 
 ## Goals
 ### Achieve learning the aforementioned stuff
-### Go on a 2nd date with my crush (the 1st went sooo well, I'm still so happy)
 
 
 ## What I like
