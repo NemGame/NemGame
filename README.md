@@ -10,7 +10,7 @@
 ### Italian, Japanese, Polish, Sweedish, Chinese, Fancy English (Middle English, stuff like thou, thee, mayest, art, didst)
 
 ## What I think I know pretty well
-### HTML, CSS, JavaScript, Python
+### HTML, CSS, JavaScript, Typescript, Python
 ### Hungarian, English
 
 ## What I wanna learn (I actually do, I'm not joking)
