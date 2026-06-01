@@ -43,3 +43,10 @@
 ### Something, as in a given thing, like I know I don't know things that I don't know that I don't know, but that something is e.g. I don't know what Prowless means, if I think about not knowing it, I know that I don't know it, thus you can't know what things you don't know
 ## Yes, it's 3:44am
 ### I'm tired
+
+# Active questlog
+- C++
+- Italian
+- Compiler theory
+    - Optimization techniques
+    - IRs (Intermediate Representation)
