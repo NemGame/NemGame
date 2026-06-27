@@ -8,6 +8,7 @@
 ## What I'm learning
 ### C, C++, C#, Rust, Java
 ### Italian, Japanese, Polish, Sweedish, Chinese, Fancy English (Middle English, stuff like thou, thee, mayest, art, didst)
+### Making minecraft mods (Fabric 1.21.1)
 
 ## What I think I know pretty well
 ### HTML, CSS, JavaScript, Typescript, Python
@@ -45,6 +46,7 @@
 ### I'm tired
 
 # Active questlog
+- Minecraft modding (fabric 1.21.1) / Java
 - C++
 - Italian
 - Compiler theory
